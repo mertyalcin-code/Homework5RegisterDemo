@@ -1,0 +1,4 @@
+primeng --save
+primeicons --save
+bootstrap
+jquery
